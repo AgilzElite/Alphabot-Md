@@ -18,17 +18,17 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Balz Botz-Mdོ"
-global.ownername= "ᴹᴿ᭄ Balz Ofcོ ×፝֟͜×"
+global.botname = "Agilz Bot-Mdོ"
+global.ownername= "ᴹᴿ᭄ Gilz Ofcོ ×፝֟͜×"
 global.myweb ="https://yandex.com"
 global.youtube = "https://yandex.com"
 global.github = "https://yandex.com"
-global.ownernomer = "6285743137623"
-global.ownernomerr = "+6285743137623"
+global.ownernomer = "6285857537269"
+global.ownernomerr = "+6285857537269"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285743137623","6285743137623","6285743137623"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285857537269","6285857537269","6285743137623"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© Bakz Botz-Mdོ' //sticker wm
 global.author = 'Di Buat Oleh Balz Ofc' //sticker wm
 global.sessionName = 'session'
